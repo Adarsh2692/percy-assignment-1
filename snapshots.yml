@@ -1,0 +1,4 @@
+- name: First example
+  url: http://google.com/
+- name: Second example
+  url: http://example.com/
