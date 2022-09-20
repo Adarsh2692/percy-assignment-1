@@ -1,0 +1,19 @@
+{
+  "name": "percy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@percy/cli": "^1.6.0",
+    "@percy/selenium-webdriver": "^1.0.2"
+  },
+  "dependencies": {
+    "chromedriver": "^103.0.0"
+  }
+}
