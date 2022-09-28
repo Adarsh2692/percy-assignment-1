@@ -14,6 +14,6 @@
     "@percy/selenium-webdriver": "^1.0.2"
   },
   "dependencies": {
-    "chromedriver": "^103.0.0"
+    "chromedriver": "^105.0.0"
   }
 }
