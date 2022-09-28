@@ -12,7 +12,7 @@ const percySnapshot = require('@percy/selenium-webdriver');
     await driver.get('https://www.browserstack.com/pricing');
     await percySnapshot(driver, 'Pricing');
 
-    await driver.get('https://www.browserstack.com/integrations/automate');
+    await driver.get('https://k8s.bsstag.com/integrations/automate');
     await percySnapshot(driver, 'Integrations');
 
     await driver.get('https://www.browserstack.com/docs');
